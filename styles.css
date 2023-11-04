@@ -245,3 +245,10 @@ footer {
 marquee a {
     text-decoration: none;
 }
+
+#discografia hr {
+    border: 2px solid #ffc14a; /* Color del borde */
+    margin: 20px auto; /* Margen superior e inferior */
+    height: 10px;
+    background-color: #ffc14a;
+}
